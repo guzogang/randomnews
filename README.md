@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to RandomNews 
+
+<div class="content">
+      <div class="content-padded" style="margin-top:10px">
+          <b><font color=#C00000>Random</font><font color=#A9A9A9>News&trade;</font></b> is a news app that aggregates various news categories from global providers and delivers it to users in a random and appealing fashion.<br/><br/>
+          <span style="color:gray;font-weight:bold;">Features</span>
+          <ul style="list-style-type:disc;;margin-left:-10px"><li>Source News from global sources.<br/></li><li>Select several categories of random news to view at any one time.<br/></li><li>Search for specific news items.<br/></li><li>Share news with Family & Friends.<br/></li></ul><span style="color:gray;font-weight:bold;">How to Use</span><ul style="list-style-type:disc;margin-left:-10px"><li>Select one or more news categories from a list of six - Current, International, Business, Science & Tech, Entertainment and Sports </li><li> Click on 'LocalNews' or 'WorldNews' on toolbar to read local news or world news aggregated from categories you selected.</li><li>Search for specific news items by entering a keyword.</li><li>Turn on/off switch to randomize world news.</li><li>Click on the 'More Details' button on the news details page to get more information about a news item.</li><li>Click on the share button to share news with family & friends. Enjoy!</li></ul><br/><br/>
+        
+     </div> 
+ </div>
 
 You can use the [editor on GitHub](https://github.com/guzogang/randomnews/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
